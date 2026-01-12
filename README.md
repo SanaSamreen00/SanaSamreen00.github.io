@@ -1,6 +1,6 @@
 # You are here! I'm  Sana Samreen
 
-I'm a Java Backend Developer in training, building scalable APIs and microservices using Spring Boot, Hibernate, and cloud-native tools. [Profile views will auto-populate]
+I'm a Java Backend Developer in training, building scalable APIs and microservices using Spring Boot, Hibernate, and cloud-native tools. 
 
 ## About Me:
 - Currently learning Java backend development.
