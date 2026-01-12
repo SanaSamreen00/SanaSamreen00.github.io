@@ -6,14 +6,6 @@ I'm a Java Backend Developer in training, building scalable APIs and microservic
 - Currently learning Java backend development.
 - Focus: RESTful APIs, Database Design, Authentication & Security.
 - Passionate about clean code, java, and contributing to open-source!
-Hey 👋, My name is Lavanya Rapelli
-
-I'm a Backend Developer specializing in building and optimizing robust, scalable applications and solutions using technologies like Node.js, JavaScript, and various server-side frameworks. [314 profile views]
-
-## About Me:
-- I'm currently a Development student at Maisai School.
-- Working on Backend concepts like APIs, Authentication, REST.
-- Actively engaging with coding challenges and projects.
 
 ### Tech Stack:
 | HTML | CSS | JS | Tailwind | Bootstrap | Python |
@@ -29,14 +21,12 @@ I'm a Backend Developer specializing in building and optimizing robust, scalable
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382F?style=for-the-badge&logo=redis&logoColor=white) |
 
 🎯 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanasamreen00)
 
 ## GitHub Stats:
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME)
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasamreen00&layout=compact)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sanasamreen00)
 
-- My short-term goal: To excel in coding and secure a role at a reputed tech company.
-- Fun fact: I love dancing, singing, exploring new places and food!
 
 [![Follow](https://img.shields.io/badge/Follow%20@LAVANYARAPELLI-000?style=social&logo=github&logoColor=fff&link=https://github.com/YOURUSERNAME)]()
 
